@@ -1,0 +1,6 @@
+C:\Users\serga\source\repos\BnKgame\BnKgame\bin\Debug\BnKgame.exe.config
+C:\Users\serga\source\repos\BnKgame\BnKgame\bin\Debug\BnKgame.exe
+C:\Users\serga\source\repos\BnKgame\BnKgame\bin\Debug\BnKgame.pdb
+C:\Users\serga\source\repos\BnKgame\BnKgame\obj\Debug\BnKgame.csprojAssemblyReference.cache
+C:\Users\serga\source\repos\BnKgame\BnKgame\obj\Debug\BnKgame.exe
+C:\Users\serga\source\repos\BnKgame\BnKgame\obj\Debug\BnKgame.pdb
